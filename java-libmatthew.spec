@@ -5,7 +5,7 @@ Name:		java-libmatthew
 Version:	0.7.1
 Release:	1
 License:	LGPL v2.1
-Group:		Development/Languages/Java
+Group:		Libraries/Java
 Source0:	http://www.matthew.ath.cx/projects/java/libmatthew-java-%{version}.tar.gz
 # Source0-md5:	6a4db221129f230c64a0f937d00bb703
 URL:		http://www.matthew.ath.cx/projects/java/
