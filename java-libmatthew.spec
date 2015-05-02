@@ -3,7 +3,7 @@ Summary:	Selection of Java libraries by Matthew Johnson
 Summary(pl.UTF-8):	Wybrane biblioteki Javy autorstwa Matthew Johnsona
 Name:		java-libmatthew
 Version:	0.8
-Release:	1
+Release:	2
 License:	LGPL v2.1
 Group:		Libraries/Java
 Source0:	http://www.matthew.ath.cx/projects/java/libmatthew-java-%{version}.tar.gz
