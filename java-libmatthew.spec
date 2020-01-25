@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.java
 Summary:	Selection of Java libraries by Matthew Johnson
 Summary(pl.UTF-8):	Wybrane biblioteki Javy autorstwa Matthew Johnsona
 Name:		java-libmatthew
